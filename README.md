@@ -63,8 +63,8 @@
 * git commit -m ""
 
 
-![Слияние в ветку master](screenshots/task41.png)
-![Слияние в ветку master 2](screenshots/task42.png)
+![Слияние в ветку master](screenshots/41.png)
+![Слияние в ветку master 2](screenshots/42.png)
 
 
 
