@@ -16,7 +16,7 @@
 
 Логи команд:
 
-* git clone https://github.com/zxcgrishka/LR6/tree/master
+* git clone https://github.com/shifee/LR6
 * git pull
 
 
